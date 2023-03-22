@@ -1,4 +1,4 @@
-![20211207_122627](https://user-images.githubusercontent.com/50743783/227034593-87d88587-26b2-4a08-bac8-ea88352c1c03.jpg)
+![Josué AFOUDA GitHub](https://user-images.githubusercontent.com/50743783/227040730-3c02ffa5-41b8-4cfe-81f8-d6984f8993fc.png)
 
 - 👋 Hi, I'm Josué Afouda.
 - 👀 I’m interested in Machine Learning Enginneering, Data Engineering and Deep Learning
