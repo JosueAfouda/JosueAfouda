@@ -1,9 +1,83 @@
-![Josué AFOUDA GitHub](https://user-images.githubusercontent.com/50743783/227040730-3c02ffa5-41b8-4cfe-81f8-d6984f8993fc.png)
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/JosueAfouda/assets/blob/main/banner-data-science.png" alt="Data Science Banner" width="100%">
+</p>
 
-- 👋 Hi, I'm Josué Afouda.
-- 👀 I’m interested in Machine Learning Enginneering, Data Engineering and Deep Learning
-- 🔭 Currently, I am a Data Scientist at EDF in France.
-- 🌱 I’m currently learning MLOps with tools like Azure Machine Learning, Azure DevOps and MLFlow
-- 👯 I want to collaborate with people interested in AI projects
-- 💬 You can follow me on Linkedin: https://www.linkedin.com/in/josu%C3%A9-afouda/
-- 📫 How to reach me: afouda.josue@gmail.com
+<h1 align="center">👋 Bonjour, je suis Josué AFOUDA</h1>
+<h3 align="center">Expert Data Scientist • Machine Learning Engineer • Data Engineer</h3>
+
+<p align="center">
+  <a href="mailto:afouda.josue@gmail.com">
+    <img src="https://img.shields.io/badge/Email-afouda.josue%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/josueafouda/">
+    <img src="https://img.shields.io/badge/LinkedIn-Josué%20Afouda-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://josueafouda.shinyapps.io/RShiny-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-R%20Shiny-brightgreen?style=for-the-badge&logo=rstudio">
+  </a>
+</p>
+
+---
+
+## 🚀 À propos de moi
+💡 Data Scientist et Data Engineer avec **7+ ans d'expérience** dans la conception et le déploiement de solutions Data de bout en bout :  
+- **Pipelines Big Data** et intégration **Machine Learning**  
+- Applications analytiques interactives (**R Shiny**, **Power BI**)  
+- Déploiement cloud et **MLOps** (**Azure**, **GCP**, **Docker**, **CI/CD**)  
+- Expertise en **Python, R, SQL, PySpark**
+
+Passionné par la **transformation des données en décisions stratégiques**, j’interviens de la collecte jusqu’à la mise en production de modèles.
+
+---
+
+## 🛠️ Stack Technique
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,sql,docker,git,github,azure,gcp" />
+</p>
+
+**Langages & Frameworks**  
+- Python | R | SQL | PySpark | Sparklyr  
+- Pandas | Tidyverse | Scikit-Learn | TensorFlow | PyTorch | XGBoost  
+- R Shiny | Streamlit | FastAPI  
+
+**Cloud & BI**  
+- Azure | GCP | BigQuery | Snowflake | Power BI | Posit Connect  
+
+**DevOps & MLOps**  
+- Docker | GitHub Actions | Azure DevOps | OpenShift | Jenkins  
+- CI/CD | Airflow | Google Cloud Composer  
+
+---
+
+## 📊 Réalisations marquantes
+
+- **2M+ transactions/jour** traitées dans des pipelines PySpark & Databricks  
+- Intégration de modèles ML (LSTM, AutoEncoder) en production, **+12% de précision**  
+- Développement de **6 applications R Shiny** et **4 dashboards Power BI** adoptés par 40+ managers  
+- Automatisation de **1 200+ fichiers Excel/mois** : gain de temps **8h → 15 min**  
+- Formation de **50+ utilisateurs métiers** et adoption pérenne des outils data  
+
+---
+
+## 🌟 Ce que je peux apporter
+✅ Expertise technique solide & approche orientée business  
+✅ Solutions scalables et maintenables  
+✅ Communication fluide avec les équipes métiers  
+✅ Livraison rapide avec haute qualité
+
+---
+
+## 📫 Me contacter
+<p align="center">
+  <a href="mailto:afouda.josue@gmail.com"><img src="https://img.shields.io/badge/Email-afouda.josue%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/josueafouda/"><img src="https://img.shields.io/badge/LinkedIn-Josué%20Afouda-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://josueafouda.shinyapps.io/RShiny-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-R%20Shiny-brightgreen?style=for-the-badge&logo=rstudio"></a>
+</p>
+
+---
+
+<p align="center">
+  <em>📢 Disponible pour des missions freelance en Data Science, Machine Learning et Data Engineering.</em>
+</p>
